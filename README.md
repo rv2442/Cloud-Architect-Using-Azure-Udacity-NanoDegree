@@ -20,7 +20,7 @@ g) Autoscale In-Out Based on Metrics
 #### Project3 (Currently Working on it): Security
 >
 
-___________________________________________________________________________________________________________________________________________________________________
+
 ## License 
 
 *PROJECT LICENSE*
