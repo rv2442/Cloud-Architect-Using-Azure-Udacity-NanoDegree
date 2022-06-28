@@ -39,5 +39,5 @@ but if you submit it, it's your own responsibility if you get expelled.
 Besides the above notice, the following license applies and this license notice
 must be included in all works derived from this project.
 
-[*Creative Commons Zero v1.0 Universal*](/LICENSE)
+* [*Creative Commons Zero v1.0 Universal*](/LICENSE)
 
