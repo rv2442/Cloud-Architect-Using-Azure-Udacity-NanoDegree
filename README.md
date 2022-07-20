@@ -28,10 +28,10 @@ g) Autoscale In-Out Based on Metrics
 _This project was submitted by Rahul Vijan as part of the Nanodegree At Udacity._ 
 
 >As part of Udacity Honor code, your submissions must be your own work,  
-hence submitting this project as yours will cause you to break the   
-Udacity Honor Code and may result in the suspension of your account.     
+hence submitting this project as yours may cause you to break the   
+Udacity Honor Code and hence result in the suspension of your account.     
 >  
->Me, the author of the project, allow you to check the solution as a reference,  
+>Me, the author of the project, allows you to check the solution as a reference,  
 but if you submit it, it's your own responsibility if you get expelled.  
 >  
 >Copyright (c) 2022 Rahul Vijan  
