@@ -17,7 +17,7 @@ e) Azure Monitor( Log Analytics, Smart Alerts)
 f) Azure Insights  
 g) Autoscale In-Out Based on Metrics  
 
-#### Project3 (Approved): Security
+#### Project 3 (Approved): Security
 >a) IAM (Identity and Access Management)  
 b) Network and Infrastructure Security  
 c) Data Security and Protection  
